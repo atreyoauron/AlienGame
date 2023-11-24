@@ -215,7 +215,7 @@ Uma subta mudança de comportamento de um individuo pode ser um forte indicio de
 Chapéu de Aluminio | Auxiliar| Por algum motivo, aluminio é um otimo repelente para ataques mentais.
 ---
 ###  Crop Circles
-![](https://i.imgur.com/z8sBw1t.png)
+![](https://i.imgur.com/TdrW2bL.jpg)
 > Sinais na plantação
 
 **Descrição** : Os propositos dos crop circles são desconhecidos, acredita-se que são utilizados para sinalização ou até mesmo passar uma mensagem.
