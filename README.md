@@ -28,18 +28,18 @@
 
 
 # Aliens 
-•	Grey
-•	Reptiliano
-•	Assimilador
-•	Stalker
-•	Hunter
-•	Inteloper (Men in Black)
-•	Iluminados (Alien Espiritual)
-•	Cybertronian
-•	Nefelhim
-•	Starpeople
-•	Conquistador
-•	Martians
+- Grey
+- Reptiliano
+- Assimilador
+- Stalker
+- Hunter
+- Inteloper (Men in Black)
+- Iluminados (Alien Espiritual)
+- Cybertronian
+- Nefelhim
+- Starpeople
+- Conquistador
+- Martians
 
 # Sobre as Evidencias
 Cada evidencia tem caracteristicas e formas de serem adquiridas, algumas são altamente dependente de auxilio de ferramentas para se obter algo mais certeiro.
