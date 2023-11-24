@@ -174,6 +174,8 @@ Aparelho Cirurgico | Principal | Remove a larva alienigena do hospedeiro.
 **Descrição** : Alguns tipos de aliens costumam implantar suas crias dentro de humanos. Na maioria dos casos, as crias se alimentam do interior de seus hospedeiros e quando estão fortes o bastante decidem se libertar.Em 99,98% dos casos, os hospedeiros não sobrevivem.
 Uma preguinancia é causada após uma abduçãona maioria dos casos.
 
+test save
+
 
 **Ferramentas**:
 
