@@ -1,46 +1,5 @@
 # Xenophobia - The Game
 
-# Evidencias
-- Sangue no chão.
-- UFO no céu\ Abdução por tractor beam.
-- Orbs de luz.
-- Não-Organico
-- Armamento Alienigena
-- EMP.
-- Alien Cloak
-- Preguinancia
-- Implante 
-- Mimetismo
-- Controle mental.
-- Crop Circles
-
-# Eventos 
-- Disparo Laser
-- Armadilha de Luz
-- Escrita Alienígena
-- Grunhidos (Sons)
-- Abdução/Sequestro
-- Invasão Mental
-- Mutilaçao
-- Interferencia de Comunicação
-
-
-
-
-# Aliens 
-- Grey
-- Reptiliano
-- Assimilador
-- Stalker
-- Hunter
-- Inteloper (Men in Black)
-- Iluminados (Alien Espiritual)
-- Cybertronian
-- Nefelhim
-- Starpeople
-- Conquistador
-- Martians
-
 # Sobre as Evidencias
 Cada evidencia tem caracteristicas e formas de serem adquiridas, algumas são altamente dependente de auxilio de ferramentas para se obter algo mais certeiro.
 
@@ -226,3 +185,29 @@ Aliens que produzem esses fenomenos nas plantações geralmente não vão muito 
 | -------------| ------------- | ---------- |
 Satélite/Computaor|Principal | Atráves das imagens de satelite é possivel averiguar a existencia de plantações ao redor de sua localização.
 ---
+
+
+# Eventos 
+- Disparo Laser
+- Armadilha de Luz
+- Escrita Alienígena
+- Grunhidos (Sons)
+- Abdução/Sequestro
+- Invasão Mental
+- Mutilaçao
+- Interferencia de Comunicação
+
+# Aliens 
+- Grey
+- Reptiliano
+- Assimilador
+- Stalker
+- Hunter
+- Inteloper (Men in Black)
+- Iluminados (Alien Espiritual)
+- Cybertronian
+- Nefelhim
+- Starpeople
+- Conquistador
+- Martians
+
