@@ -6,11 +6,11 @@
 - Orbs de luz.
 - Não-Organico
 - Armamento Alienigena
-- Interferencia no radio.
-- Alien cloaked.
+- EMP.
+- Alien Cloak
 - Preguinancia
-- Sonda Alienígena  
-- Vozes humanas.
+- Implante 
+- Mimetismo
 - Controle mental.
 - Crop Circles
 
@@ -22,7 +22,8 @@
 - Abdução/Sequestro
 - Invasão Mental
 - Mutilaçao
-- EMP
+- Interferencia de Comunicação
+
 
 
 
@@ -44,18 +45,18 @@
 Cada evidencia tem caracteristicas e formas de serem adquiridas, algumas são altamente dependente de auxilio de ferramentas para se obter algo mais certeiro.
 
 ### Lista de Evidencias
-•	Sangue no chão.
-•	UFO no céu\ Abdução por tractor beam.
-•	Orbs de luz.
-•	Não-Organico
-•	Armamento Alienigena
-•	Interferencia no radio.
-•	Alien cloaked.
-•	Preguinancia
-•	Sonda Alienígena  
-•	Vozes humanas.
-•	Controle mental.
-•	Crop Circles
+- Sangue no chão.
+- UFO no céu\ Abdução por tractor beam.
+- Orbs de luz.
+- Não-Organico
+- Armamento Alienigena
+- EMP.
+- Alien Cloak
+- Preguinancia
+- Implante 
+- Mimetismo
+- Controle mental.
+- Crop Circles
 
 
 ### Sangue
@@ -167,22 +168,61 @@ Uma preguinancia é causada após uma abduçãona maioria dos casos.
 Raio-X | Principal | O raio-x pode detectar uma anomalia no corpo das pessoas.
 Aparelho Cirurgico | Principal | Remove a larva alienigena do hospedeiro.
 ---
-###  Sonda Alienígena
-![](https://i.imgur.com/ChXFv4Z.png)
-> Não é a mamãe!
+###  Implante Alienigena
+![](https://i.imgur.com/ZiPuSil.png)
+> Conhecido também como sonda alienigena
 
-**Descrição** : Alguns tipos de aliens costumam implantar suas crias dentro de humanos. Na maioria dos casos, as crias se alimentam do interior de seus hospedeiros e quando estão fortes o bastante decidem se libertar.Em 99,98% dos casos, os hospedeiros não sobrevivem.
-Uma preguinancia é causada após uma abduçãona maioria dos casos.
-
-test save
-
+**Descrição** : Os implantes servem para monitoramento de nossas ações e coletar informações.
+Uma pessoa que possui um implante pode causar interferencia em aparelhos eletronicos de forma sutil, como alterando resultados ou até mesmo o mal funcionamento geral. Do contrario, é totalmente inofensivo a humanos... mas será que é uma boa ideia manter um implante extraterrestre dentro de nós?
 
 **Ferramentas**:
 
 |Nome          |  Função       | Descrição |
 | -------------| ------------- | ---------- |
 Raio-X | Principal | O raio-x pode detectar uma anomalia no corpo das pessoas.
-Aparelho Cirurgico | Principal | Remove a larva alienigena do hospedeiro.
+Ciringa | Auxiliar | Usadod para remoção dos implantes 
 ---
+###  Mimetismo
+![](https://i.imgur.com/hDN3xHE.png)
+> Jogo da imitação
 
+**Descrição** : Alguns aliens tentam imitar raças diferentes ou até mesmo seres humanos nos casos mais comuns.
+Em alguns casos, o mimetismo é apenas parte de sua genetica, oque significa que não estão tentando nos imitar mas eles já de fato possem a genetica similar a nossa.
 
+**Como idenitficar o mimetismo**:
+- Vozes humanas: Vozes que emitem sons similares aos humanos
+- Impressões digitais: Marcas de Mãos, Pés e similares.
+- Anatomia: Caracteristicas fisicas similares a de humanos
+- Escrita: A escrita dos aliens com mimetismo são muito similares ao alfabeto humano.
+
+**Ferramentas**:
+|Nome          |  Função       | Descrição |
+| -------------| ------------- | ---------- |
+Luz Ultra Violeta | Auxiliar | Detectar impressões digitais
+Microfone Direcional | Auxiliar | Detecção de sons distantes
+
+---
+###  Controle Mental
+![](https://i.imgur.com/z8sBw1t.png)
+> You will obey!
+
+**Descrição** : Invasões mentais podem ocorrer quando se deparando com um alien de consciencia avançada. As invasões mentais podem causar uma perda de memoria ou até mesmo uma perda total de controle do corpo.
+Uma subta mudança de comportamento de um individuo pode ser um forte indicio de um ataque mental.
+
+**Ferramentas**:
+|Nome          |  Função       | Descrição |
+| -------------| ------------- | ---------- |
+Chapéu de Aluminio | Auxiliar| Por algum motivo, aluminio é um otimo repelente para ataques mentais.
+---
+###  Crop Circles
+![](https://i.imgur.com/z8sBw1t.png)
+> Sinais na plantação
+
+**Descrição** : Os propositos dos crop circles são desconhecidos, acredita-se que são utilizados para sinalização ou até mesmo passar uma mensagem.
+Aliens que produzem esses fenomenos nas plantações geralmente não vão muito além dos mesmos, sempre se hospedando em locais proximos dos sinais.
+
+**Ferramentas**:
+|Nome          |  Função       | Descrição |
+| -------------| ------------- | ---------- |
+Satélite/Computaor|Principal | Atráves das imagens de satelite é possivel averiguar a existencia de plantações ao redor de sua localização.
+---
