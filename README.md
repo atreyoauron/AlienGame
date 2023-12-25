@@ -1,5 +1,126 @@
 # Xenophobia - The Game
 
+# Sobre os Aliens
+Cada alien possui caracteristicas, alguns são bem similares a outros, oque as vezes torna um pouco dificil de identificar o Alien de forma imediata.
+É possivel notar porém que cada um deles possuem "gimmicks" unicas que podem ser usados para ajudar na investigação, porém na maior parte do tempo a equipe de investigação deverá coletar multiplas evidencias para deduzir o alvo correto.
+
+### Lista de Aliens 
+- Grey
+- Reptiliano
+- Assimilador
+- Stalker
+- Hunter
+- Interloper (Men in Black)
+- Iluminados (Alien Espiritual)
+- Cybertronian
+- Nefelhim
+- Starpeople
+- Conquistador
+- Martians
+- Borgs
+- ??? (Telepath/Arrival)
+- ??? (Cthulu)
+- ??? (Elemental)
+- ??? (Friendly)
+- ??? (Furyan/Riddick)
+
+### Grey
+![](https://i.imgur.com/LXi6E0W.png) 
+> Rosswell, 1947
+
+**Descrição** : Greys são a especie de alien mais comuns de se encontrar e também os mais famosos. Sua aparencia consiste a de uma pessoa pequena, pele acizentada e um cranio avantajado.
+A presença de Greys sempre vem acompanhada de sumiços e reaparições subtas, há fortes indicios que eles gostam de fazer experimentos em humanos.
+São timidos por natureza, evitam exposição o maximo que podem porém sua curiosidadde geralmente faz com que sejam pegos.
+
+**Conceito**: Baseado nos famosos Greys, o tipo mais comum que vem na mente quando se fala em "Aliens".
+
+
+**Caracteristicas**:
+- Um pouco timido
+- Costuma ficar sempre proximo de sua nave
+- Agil
+
+
+**Artefato**:
+
+**Evidencias**:
+
+---
+
+### Reptoids
+![](https://i.imgur.com/N2wXntA.png) 
+> Saurians, Draconians, Reptilians
+
+**Descrição** : Aliens com caracteristicas reptilianas. As origens dessa raça alienigena são conflitantes, desde originarios do planeta Nibiru desde vindos de uma dimensão paralela.
+Aparentimente, eles estão presentes desde os primordios da humanidade se escondendo entre nós manipulando o curso de evolução da terra...mas com qual objetivo?
+
+**Conceito**: Baseado nas conspirações sobre reptilianos, que possuem diversas vertentes desde seres da terra até alienigneas.
+A vertente da conspiração alienigena vem da lenda dos "Annunaki".
+
+**Caracteristicas**:
+
+
+**Artefato**:
+
+**Evidencias**:
+
+---
+### Assimilador
+![](https://i.imgur.com/dFLWv9e.png) 
+> "THE THING"
+
+**Descrição** : Uma criatura vinda do espaço que é capaz de "imitar" com perfeição outros seres vivos, se transmutando fisicamente de forma ilimitada.
+É importante notar que a criatura, ao assumir uma forma por completo, herda todas as memorias e caracteristicas da vitima com tamanha perfeição que a mesma perde sua propria identidade.
+
+**Conceito**: Baseado na criatura do filme "Enigma de Outro Mundo" ou "The Thing".
+
+**Caracteristicas**:
+- Instavel, muda de humor constantemente
+- Sua composição genética é uma bagunça
+
+**Artefato**:
+
+**Evidencias**:
+
+---
+### Stalker
+![](https://i.imgur.com/joIQiHS.png) 
+> O Oitavo Passageiro
+
+**Descrição** : Alienigena com comportamento animalesco. Graças a sua anatomia exotica, ele é capaz de se esgueirar por cantos estreitos e inacessiveis por qualquer outro ser de sua estatura.
+Costuma caçar presas isoladas utilizando-se de taticas muito similares a de caçadores de nossa fauna. Multidões não é muito seu estilo, portanto manter-se perto da sua equipe é uma forma segura de investigar esta criatura.
+
+**Conceito**: Baseado na série de filmes "Alien".
+
+**Caracteristicas**:
+- Muito Agil
+- Costuma atacar com frequencia mas somente aqueles que estão isolados.
+- Sempre deixa um ovo como amostra
+
+**Artefato**:
+
+**Evidencias**:
+
+---
+### Hunter
+![](https://i.imgur.com/HFREV3A.png) 
+> Damn you ugly!
+
+**Descrição** : Caçador de Recompensas, Guerreiro, Lutador... não sabemos ao certo sua função mas o fato é que este alien aparentimente busca um desafio. Há relatos de decaptação em suas aparições, é teorizado que ele pega a cabeça de suas vitimas como trofeis.
+Sendo muito poderoso, ele sempre vem equipado com armamentos e equipamentos para diversas situações de combate. É importante notar que, ele sempre irá escolher um individuo como seu adversario porém ele não se intimida pela presença de outros, sempre estando pronto para uma luta desigual.
+
+**Conceito**: Baseado na série de filmes "Predator".
+
+**Caracteristicas**:
+- Muito Agil
+- Costuma atacar com frequencia mas sempre vai focar em uma pessoa
+- Tirar uma foto dele durante o "cloak" irá revelar os digitos de seu equipamento.
+
+**Artefato**:
+
+**Evidencias**:
+
+---
 # Sobre as Evidencias
 Cada evidencia tem caracteristicas e formas de serem adquiridas, algumas são altamente dependente de auxilio de ferramentas para se obter algo mais certeiro.
 
@@ -21,7 +142,6 @@ Cada evidencia tem caracteristicas e formas de serem adquiridas, algumas são al
 ### Assinatura Genética
 ![](https://i.imgur.com/tbrCL4w.jpg)
 > Criaturas de fora de nosso mundo podem ter uma genética diferenciada.
-
 
 [![Button Example]][Link]
 
@@ -217,22 +337,4 @@ Satélite/Computaor|Principal | Atráves das imagens de satelite é possivel ave
 - Interferencia de Comunicação
 - Interferencia EMP 1.6
 
-# Aliens 
-- Grey
-- Reptiliano
-- Assimilador
-- Stalker
-- Hunter
-- Inteloper (Men in Black)
-- Iluminados (Alien Espiritual)
-- Cybertronian
-- Nefelhim
-- Starpeople
-- Conquistador
-- Martians
-- Borgs
-- ??? (Telepath/Arrival)
-- ??? (Cthulu)
-- ??? (Elemental)
-- ??? (Friendly)
-- ??? (Furyan/Riddick)
+
