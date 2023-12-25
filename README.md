@@ -4,10 +4,11 @@
 Cada evidencia tem caracteristicas e formas de serem adquiridas, algumas são altamente dependente de auxilio de ferramentas para se obter algo mais certeiro.
 
 ### Lista de Evidencias
-- Sangue no chão.
+- ~~Sangue no chão~~
+- ~~Não-Organico~~
+- Assinatura Genética
 - UFO no céu\ Abdução por tractor beam.
 - Orbs de luz.
-- Não-Organico
 - Armamento Alienigena
 - EMP.
 - Alien Cloak
@@ -17,18 +18,43 @@ Cada evidencia tem caracteristicas e formas de serem adquiridas, algumas são al
 - Controle mental.
 - Crop Circles
 
+### Assinatura Genética
+![](https://i.imgur.com/tbrCL4w.jpg)
+> Criaturas de fora de nosso mundo podem ter uma genética diferenciada.
 
-### Sangue
 
-**Descrição** : Evidencia mais simples e facil de se adquirir. Alguns aliens costumam sangrar como seres humanos e as vezes deixam esse tipo de rastro.
-Porém, nem sempre sangue pode ser uma evidencai alienigena, pode as vezes o sangue pode ser humano ou de um animal terraqueo.
+[![Button Example]][Link]
+
+[Link]: https://www.figma.com/file/BlLnVTjfAd6r5nFcTE7Per/Untitled?type=whiteboard&node-id=2%3A2&t=BIxNnP0P9UuvAhsx-1 'Detalhamento sobre o topico.'
+[Button Example]: https://img.shields.io/badge/Quadro_Figma-37a778?style=for-the-badge
+
+
+**Descrição** : Alguns aliens possuem assinaturas genéticas similares porém bem diferentes da nossa. Uma das formas principais de identificar uma especie ou tipo de alienigena é coletando amostrar e analisando para determinar com quem ou oque estamos lhe dando.
+
+**Como analisar a Genética**:
+Durante as missões, é possivel encontrar escrementos,liquidos e/ou similares para serem analisados por uma aparelho.Para se obter a assinatura genetica completa, é necessario coletar 3 amostras diferentes de cada ser. 
+Podem haver multiplos tipos de amostras no local, como amostras do alien e também de seres humanos. Portanto é importante se atentar no tipo de amostra que está sendo analisada observando os resultados das analises.
+Cada amostra correta analisada de forma consecutiva, irá evoluir um nivel na análise genética, sendo 3 niveis da análise.
+
+Exemplificando na imagem abaixo, cada amostra analisada fiacrá gravada no aparelho de forma individual.
+![](https://i.imgur.com/8lmF9GH.png)
+
+**Combinações**:
+![](https://i.imgur.com/QKu9INz.png)
+
+**Niveis da Análise**: Exemplificação dos niveis.
+![](https://i.imgur.com/HwCy98h.png)
+
+**Resultados**: Dependendo dos resultados das análises, o player será capaz de identificar uma porcentagem dos aliens disponiveis em catalogo.
 
 **Ferramentas**:
 
 |Nome          |  Função       | Descrição |
 | -------------| ------------- | ---------- |
-Analisador ded Sangue |  Principal  | Analisa o sangue para determinar se é humano ou não.|
-Lanterna |  Auxiliar | Lanterna simples, nada de especial.|
+Analisador Portatil |  Principal  | Ferramenta portatil de análise genética, usada para trabalho em campo de atuação.
+Coletor de Amostras|  Auxiliar | Utilizado para coletar amostras e transporta-las para outros locais. 
+Armario de Amostras | Auxiliar | Um armario que fica no caminhão de operações, ali será possivel guardar amostras encontradas pela equipe de investigação.
+Computador de Análises| Auxiliar| Computaor especializado em Análises Genéticas. Similar ao analisador portatil porém pode ser usado no caminhão de operações para a equipe toda poder visualizar os resultados.
 ---
 ### UFO no Céu/Tractor Beam 
 ![](https://i.imgur.com/yVatjWD.png)
@@ -62,15 +88,6 @@ Night Vision |  Principal | Nightvision funciona de forma similar a cameras de v
 
 ----
 
-### Inogarnico
-![](https://i.imgur.com/VjrrIxM.png)
-> Aqueles que não são de formação genetica "natural"
-
-**Descrição** : Na vastidão do Universo, existem diversas raças de alienigenas, dentre elas estão aqueles que nao podem ser classificados como organicos, devido a sua formação genetica rara.
-Durante investigações, esses aliens deixarão 
-
----
-
 ### Armamento Alienigena
 ![](https://i.imgur.com/fet83lx.png)
 > Armas de fogo, bombas, armas brancas.
@@ -88,8 +105,10 @@ Catalogo de Equipamentos|  Principal  | Pelo catalogo é possivel saber se a ra�
 ![](https://i.imgur.com/0CUsulB.png)
 > Eletromagnetic Pulse
 
-**Descrição** : Alguns aliens tem a capacidade de inutilizar os equipamentos da equipe de investigação, sendo de forma intencional ou não.
-Uma interferencia no rádio ou equipamentos falhando pode ser um indicio de que o alien é capaz de sabotar nossos equipamentos, contudo uma prova conclusiva só pode ser obtida utilizando uma ferramenta adequada.
+**Descrição** : É comum aliens e/ou suas tecnologias causarem interferencias electromagneticas, essa interferencia pode ser medida atravez de um sinal que vai de 0 a 1.6, quando esse sinal atinge o limite de 1.6 interferencias são detectadas em aparelhos eletricos e também em organismos biologicos, ou seja, em humanos.
+Os diversos sintomas são aleatorios de pessoa em pessoa, podendo causar visão dupla, fatiga e retardação motora, incapacidade de se comunicar verbalmente e entre outros.
+Em equipamentos eletronicos a interferencia é sutil pois ela causa falsos positivos ou malfuncionamentos, por exemplo o aparelho de raio-X nao ira detectar implantes ou impregnações quando elas existem, ou o radar ira gerar “pings” de movimento onde movimento não existe, assim criando falsas evidencias ou não demonstrando evidencias onde deveriam ter.
+
 
 **Ferramentas**:
 
@@ -196,6 +215,7 @@ Satélite/Computaor|Principal | Atráves das imagens de satelite é possivel ave
 - Invasão Mental
 - Mutilaçao
 - Interferencia de Comunicação
+- Interferencia EMP 1.6
 
 # Aliens 
 - Grey
@@ -210,4 +230,9 @@ Satélite/Computaor|Principal | Atráves das imagens de satelite é possivel ave
 - Starpeople
 - Conquistador
 - Martians
-
+- Borgs
+- ??? (Telepath/Arrival)
+- ??? (Cthulu)
+- ??? (Elemental)
+- ??? (Friendly)
+- ??? (Furyan/Riddick)
