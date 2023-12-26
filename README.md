@@ -122,8 +122,12 @@ Sendo muito poderoso, ele sempre vem equipado com armamentos e equipamentos para
 
 ---
 ### Interloper
-![](https://i.imgur.com/qBlr5bQ.png | width=100) 
-> They are among
+![](https://i.imgur.com/qBlr5bQ.png) 
+
+ <img src="https://i.imgur.com/qBlr5bQ.png"  width="200" height="200">
+
+
+
 
 **Descrição** : Caçador de Recompensas, Guerreiro, Lutador... não sabemos ao certo sua função mas o fato é que este alien aparentimente busca um desafio. Há relatos de decaptação em suas aparições, é teorizado que ele pega a cabeça de suas vitimas como trofeis.
 Sendo muito poderoso, ele sempre vem equipado com armamentos e equipamentos para diversas situações de combate. É importante notar que, ele sempre irá escolher um individuo como seu adversario porém ele não se intimida pela presença de outros, sempre estando pronto para uma luta desigual.
