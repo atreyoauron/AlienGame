@@ -11,7 +11,7 @@ Cada alien possui caracteristicas, alguns são bem similares a outros, oque as v
 - Stalker
 - Hunter
 - Interloper (Men in Black)
-- Iluminados (Alien Espiritual)
+- Arcturianos
 - Cybertronian
 - Nefelhim
 - Starpeople
@@ -122,22 +122,60 @@ Sendo muito poderoso, ele sempre vem equipado com armamentos e equipamentos para
 
 ---
 ### Interloper
-![](https://i.imgur.com/qBlr5bQ.png) 
+![](https://i.imgur.com/W8Hxgjg.png) 
+> They are among us
 
- <img src="https://i.imgur.com/qBlr5bQ.png"  width="200" height="200">
+**Descrição** : Algumas raças alienigenas podem transitar livremente pela terra graças a um tratado interplanetario ou uma troca de favores para o governo. Contudo, alguns desses aliens cometem crimes como sequestros, furtos e espionagem e mesmo que tenham carta branca para perambular em nosso planeta, esses atos são vistos como uma violaçao do tratado.
+Esse tipo de alien conhece nosso modo de operar então ele tentará de tudo para confundir a investigação.
 
 
-
-
-**Descrição** : Caçador de Recompensas, Guerreiro, Lutador... não sabemos ao certo sua função mas o fato é que este alien aparentimente busca um desafio. Há relatos de decaptação em suas aparições, é teorizado que ele pega a cabeça de suas vitimas como trofeis.
-Sendo muito poderoso, ele sempre vem equipado com armamentos e equipamentos para diversas situações de combate. É importante notar que, ele sempre irá escolher um individuo como seu adversario porém ele não se intimida pela presença de outros, sempre estando pronto para uma luta desigual.
-
-**Conceito**: Baseado na série de filmes "Predator".
+**Conceito**: Baseado nas teorias conspiratorias de que existem aliens infiltrados em nossa sociedade e também algumas caracteristicas foram emprestadas do "Men in Black".
 
 **Caracteristicas**:
-- Muito Agil
-- Costuma atacar com frequencia mas sempre vai focar em uma pessoa
-- Tirar uma foto dele durante o "cloak" irá revelar os digitos de seu equipamento.
+- Costumam deixar evidencais falsas pelo cenario
+- Uma evidencia constante é a sua assinatura genética, oque faz com que ele gere mais evidencias que o normal.
+
+**Artefato**:
+
+**Evidencias**:
+
+---
+### Arcturianos
+![](https://i.imgur.com/veRVWTM.jpg) 
+> We came in peace!
+
+**Descrição** : Uma raça extremamente fora do comum, eles possuem a capacidade de unfluenciar as ações de individuos sem mesmo estarem proximos do individuo. Relatos indicam que esses aliens são capazes de assumir uma forma "Incorporea", quase como um fantasma.
+Não costumam ser agressivos, porém eles não devem ser subestimados pois podem ser facilmente irritados caso não atendamos suas exigencias.
+É dito que essa raça é tão avançada que eles ascenderam ao plano espiritual. Mas isso é tudo lorota, afinal nos tratamos de ciencia e espiritos não existem...certo?
+
+
+**Conceito**: Baseados no conceito da Ufologia Mistica, Arcturianos são uma raça alieningena espiritual que estão presentes no nosso planeta com a missão de nos guiar para a ascensão.
+Existe também religões que idolatram esses seres como salvadores da humanidade, um dos exemplos de figura famosa poderia ser o tal "Ashtar Sheran".
+
+**Caracteristicas**:
+- Muito Timido
+- Raramente assume uma forma fisica.
+
+**Artefato**:
+
+**Evidencias**:
+
+---
+
+### Cybertronian
+![](https://i.imgur.com/xnBnI2g.png) 
+> More than meets the eye
+
+**Descrição** : Uma raça alienigena totalmente mecanica, praticamente robos. Porém oque os diferem de simples maquinas é que eles aparentimente tem o poder de raciocinio critico... que é bem assustador quando se para para pensar.
+Eles possuem a capacidade de se transformar em objetos tecnologicos como uma forma de se camuflarem ou se esconderem e nós. De acordo coma alguns relatos, eles estão em uma guerra entre eles e nós fomos pegos no fogo cruzado.
+A grande pergunta que não quer calar porém... quem os construiu?
+
+
+**Conceito**: Baseados nos robos aliens "Transformers".
+
+**Caracteristicas**:
+- EMP muito frequente
+- Pode ser desfarçar de objetos tecnologicos (Exemplo: Carros, Geladeiras, Caixas de força e etc)
 
 **Artefato**:
 
