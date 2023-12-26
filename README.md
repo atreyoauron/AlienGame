@@ -121,6 +121,26 @@ Sendo muito poderoso, ele sempre vem equipado com armamentos e equipamentos para
 **Evidencias**:
 
 ---
+### Interloper
+![](https://i.imgur.com/qBlr5bQ.png | width=100) 
+> They are among
+
+**Descrição** : Caçador de Recompensas, Guerreiro, Lutador... não sabemos ao certo sua função mas o fato é que este alien aparentimente busca um desafio. Há relatos de decaptação em suas aparições, é teorizado que ele pega a cabeça de suas vitimas como trofeis.
+Sendo muito poderoso, ele sempre vem equipado com armamentos e equipamentos para diversas situações de combate. É importante notar que, ele sempre irá escolher um individuo como seu adversario porém ele não se intimida pela presença de outros, sempre estando pronto para uma luta desigual.
+
+**Conceito**: Baseado na série de filmes "Predator".
+
+**Caracteristicas**:
+- Muito Agil
+- Costuma atacar com frequencia mas sempre vai focar em uma pessoa
+- Tirar uma foto dele durante o "cloak" irá revelar os digitos de seu equipamento.
+
+**Artefato**:
+
+**Evidencias**:
+
+---
+
 # Sobre as Evidencias
 Cada evidencia tem caracteristicas e formas de serem adquiridas, algumas são altamente dependente de auxilio de ferramentas para se obter algo mais certeiro.
 
