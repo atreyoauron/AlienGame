@@ -182,7 +182,26 @@ A grande pergunta que não quer calar porém... quem os construiu?
 **Evidencias**:
 
 ---
+### Nefelhim
+![](https://i.imgur.com/xnBnI2g.png) 
+> More than meets the eye
 
+**Descrição** : Uma raça alienigena totalmente mecanica, praticamente robos. Porém oque os diferem de simples maquinas é que eles aparentimente tem o poder de raciocinio critico... que é bem assustador quando se para para pensar.
+Eles possuem a capacidade de se transformar em objetos tecnologicos como uma forma de se camuflarem ou se esconderem e nós. De acordo coma alguns relatos, eles estão em uma guerra entre eles e nós fomos pegos no fogo cruzado.
+A grande pergunta que não quer calar porém... quem os construiu?
+
+
+**Conceito**: Baseados nos robos aliens "Transformers".
+
+**Caracteristicas**:
+- EMP muito frequente
+- Pode ser desfarçar de objetos tecnologicos (Exemplo: Carros, Geladeiras, Caixas de força e etc)
+
+**Artefato**:
+
+**Evidencias**:
+
+---
 # Sobre as Evidencias
 Cada evidencia tem caracteristicas e formas de serem adquiridas, algumas são altamente dependente de auxilio de ferramentas para se obter algo mais certeiro.
 
